@@ -1,4 +1,4 @@
-Simple R2 browser
+# Simple R2 browser
 
 A very simple browser for Cloudflare R2. It allows you to view and download files from your R2 buckets. No design, no frills, just a simple browser. No authentication is required, but you will need to provide your R2 bucket name and region in the config file.
 
