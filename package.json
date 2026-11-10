@@ -1,0 +1,19 @@
+{
+  "name": "simple-r2-browser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "dependencies": {
+    "hono": "^4.13.17"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^5.20261108.1",
+    "typescript": "^7.0.2",
+    "wrangler": "^4.158.0"
+  }
+}
